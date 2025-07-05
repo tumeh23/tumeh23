@@ -1,4 +1,4 @@
-<div style="display: flex;
+<div align="center" width="50" style="display: flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
